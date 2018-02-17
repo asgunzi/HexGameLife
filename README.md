@@ -1,4 +1,5 @@
-#Hex Game of Life VBA
+# Hex Game of Life VBA
+
 O Jogo da Vida, de John Conway (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), é um experimento computacional em que cada célula morre de solidão se tiver poucos vizinhos, e nasce se tiver muitos vizinhos. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/99/Game_of_life_glider_gun.png)
@@ -28,3 +29,8 @@ O seed inicial é aleatório. Quanto mais verde, menos vizinhos, quanto mais ama
 ![](https://ferramentasexcelvba.files.wordpress.com/2018/02/hex2.jpg?w=536&h=332)
 
 ![](https://ferramentasexcelvba.files.wordpress.com/2018/02/hex1.gif?w=542&h=335)
+
+
+Post do Blog: https://ferramentasexcelvba.wordpress.com/2018/02/17/hex-game-of-life/
+
+Patrocinado por: https://ideiasesquecidas.com/
